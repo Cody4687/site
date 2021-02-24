@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A test website made in node using express to host it.",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody4687",
+  "license": "ISC"
+}
